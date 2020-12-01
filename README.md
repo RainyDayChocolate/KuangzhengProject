@@ -2,7 +2,7 @@
 This repo shows several Kuangzheng's engineering ability. It includes three main directories.
 
 Contact Information: 
-+ **Email**: likuangzheng@hotmail.com/lik15@rpi.edu
++ **Email**: likuangzheng@hotmail.com / lik15@rpi.edu
 + **Phone**: +1 773-786-1776 
 
 ## **MultiSourceDataEDAPlatform**. 
