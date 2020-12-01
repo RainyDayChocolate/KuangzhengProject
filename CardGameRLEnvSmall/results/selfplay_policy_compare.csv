@@ -1,0 +1,9 @@
+,1P,1P_path,2P,2P_path,score_diff
+0,fpmcts_selfplay_20190413-040008,fpmcts_selfplay/models/20190413-040008,Random,,-540.0
+1,fpmcts_selfplay_20190415-162554,fpmcts_selfplay/models/20190415-162554,fpmcts_selfplay_20190413-040008,fpmcts_selfplay/models/20190413-040008,647.0
+2,fpmcts_selfplay_20190413-040008,fpmcts_selfplay/models/20190413-040008,Random,,-521.0
+3,fpmcts_selfplay_20190415-215105,fpmcts_selfplay/models/20190415-215105,Random,,-147.0
+4,fpmcts_selfplay_20190414-011237,fpmcts_selfplay/models/20190414-011237,Random,,-458.0
+5,fpmcts_selfplay_20190416-095835,fpmcts_selfplay/models/20190416-095835,fpmcts_selfplay_20190414-011237,fpmcts_selfplay/models/20190414-011237,464.0
+6,fpmcts_selfplay_20190416-055006,fpmcts_selfplay/models/20190416-055006,fpmcts_selfplay_20190416-095835,fpmcts_selfplay/models/20190416-095835,-143.0
+7,fpmcts_selfplay_20190423-192517,fpmcts_selfplay/models/20190423-192517,Random,,714.0
