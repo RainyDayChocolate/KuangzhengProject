@@ -14,7 +14,7 @@ Contact Information:
 ## CardGameRLEnv
 + The **CardGameRLEnv** Directory is an implmentation on a smaller card game, which also includes some classical methods.
 
-+ Techniques: `Deep Learning, Reinforcement Learning, Neural Networks, Bayes Inference, Tensorflow(Keras), Pandas, Data Pipeline Building, Shell Script`,
++ Techniques: `Deep Learning, Reinforcement Learning, Neural Networks, Bayes Inference, Tensorflow(Keras), Pandas, Data Pipeline Building, Shell Script`
 
 + The card game reinforcement framework which is an extension of state-of-the-art AlphaGoZero which is designed by Google. The new framework was designed by Qiqi Jiang and Kuangzheng Li(2019). The paper was pulished on IJCAI 2019. 
 
