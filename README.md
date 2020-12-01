@@ -12,7 +12,7 @@ Contact Information:
 + Techniques: `Python, PostgreSQL and Shell Script.`
 
 ## CardGameRLEnv
-+ The **CardGameRLEnv** Directory is an implmentation on a smaller card game, which also includes some classical methods.
++ The **CardGameRLEnv** Directory is an implmentation on a less complicated card game compared with DDZ. Several classical algorithms such as PIMC, ISMCTS are also included.
 
 + Techniques: `Deep Learning, Reinforcement Learning, Neural Networks, Bayes Inference, Tensorflow(Keras), Pandas, Data Pipeline Building, Shell Script`
 
