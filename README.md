@@ -1,5 +1,5 @@
 # Kuangzheng's Project Examples
-This repo shows several Kuangzheng's engineering ability. It includes three main directories.
+This repo aims to show Kuangzheng's ability in Machine Learning Engineering and Data Engineering. It includes three main directories.
 
 Contact Information: 
 + **Email**: likuangzheng@hotmail.com / lik15@rpi.edu
